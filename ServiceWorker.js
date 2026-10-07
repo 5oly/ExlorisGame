@@ -1,9 +1,9 @@
 const cacheName = "Exloris-Exloris-1.0";
 const contentToCache = [
-    "Build/game build.loader.js",
-    "Build/game build.framework.js.br",
-    "Build/game build.data.br",
-    "Build/game build.wasm.br",
+    "Build/ExlorisGame.loader.js",
+    "Build/ExlorisGame.framework.js.unityweb",
+    "Build/ExlorisGame.data.unityweb",
+    "Build/ExlorisGame.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
